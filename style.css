@@ -65,6 +65,8 @@ body{
 .flex-container-top{
     display: flex;
     flex-direction: row;
+    justify-content: end;
+
     max-width: 800px;
     margin: 0 auto;
     padding: 0 auto;
