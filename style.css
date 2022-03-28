@@ -79,7 +79,6 @@ body{
 }
 .avatar:hover{
     transform: rotate(180deg);
-    transform:
 }
 .navigation{
     display: flex;
